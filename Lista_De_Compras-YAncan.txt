@@ -3,3 +3,4 @@ Lista de Supermercado
 * 2 kilos de azúcar
 * 1 kilo de tomates
 * 3 kilos de arroz
+Cambio realizado Por Carlos Kamisato
